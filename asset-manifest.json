@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/boysimbolonn/projectodo.github.io.git/static/css/main.b6517f0e.css",
-    "main.js": "/boysimbolonn/projectodo.github.io.git/static/js/main.ecaae44b.js",
-    "static/js/787.97a945da.chunk.js": "/boysimbolonn/projectodo.github.io.git/static/js/787.97a945da.chunk.js",
-    "index.html": "/boysimbolonn/projectodo.github.io.git/index.html",
-    "main.b6517f0e.css.map": "/boysimbolonn/projectodo.github.io.git/static/css/main.b6517f0e.css.map",
-    "main.ecaae44b.js.map": "/boysimbolonn/projectodo.github.io.git/static/js/main.ecaae44b.js.map",
-    "787.97a945da.chunk.js.map": "/boysimbolonn/projectodo.github.io.git/static/js/787.97a945da.chunk.js.map"
+    "main.css": "/todolist/static/css/main.b6517f0e.css",
+    "main.js": "/todolist/static/js/main.60890e38.js",
+    "static/js/787.97a945da.chunk.js": "/todolist/static/js/787.97a945da.chunk.js",
+    "index.html": "/todolist/index.html",
+    "main.b6517f0e.css.map": "/todolist/static/css/main.b6517f0e.css.map",
+    "main.60890e38.js.map": "/todolist/static/js/main.60890e38.js.map",
+    "787.97a945da.chunk.js.map": "/todolist/static/js/787.97a945da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6517f0e.css",
-    "static/js/main.ecaae44b.js"
+    "static/js/main.60890e38.js"
   ]
 }
